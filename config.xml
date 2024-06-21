@@ -1,0 +1,11 @@
+<files>
+    <file>
+        .xlsx路径
+         <path1>F:/Code/python-code/ToJson</path1>
+        .json路径
+        <path2>F:/Code/python-code/ToJson</path2>
+        <name>data.xlsx</name>
+        <name>data2.xlsx</name>
+    </file>
+
+ </files>
